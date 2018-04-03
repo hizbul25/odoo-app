@@ -5,20 +5,10 @@
     'summary': """
         Backup Your database as your defined time.
         """,
-
-    'description': """
-        This module allows you to backup your database at your defined directory in your defined time.
-        
-        For any kind of module customization feel free to knock me:
-        Email: hizbul25@gmail.com
-        Skype: hizbul_ku
-        Whatsapp: +8801918019179
-        Configuration
-    """,
-
     'author': "Molla IT",
     'website': "https://stackoverflow.com/cv/hizbul",
-
+    'license': 'GPL-3',
+    'installable': True,
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
     # for the full list
