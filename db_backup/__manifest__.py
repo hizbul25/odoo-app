@@ -10,8 +10,8 @@
         Automated Database Backup
     """,
 
-    'author': "Ergo Ventures Ltd",
-    'website': "http://www.ergo-ventures.com",
+    'author': "Molla IT",
+    'website': "https://stackoverflow.com/cv/hizbul",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
