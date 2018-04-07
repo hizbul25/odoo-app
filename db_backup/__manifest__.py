@@ -5,7 +5,7 @@
     'summary': """
         Backup Your database as your defined time.
         """,
-    'author': "Molla IT",
+    'author': "Code Solution Ltd",
     'website': "https://stackoverflow.com/cv/hizbul",
     'license': 'GPL-3',
     'installable': True,

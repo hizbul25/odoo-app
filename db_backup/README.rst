@@ -17,8 +17,8 @@ Usage
 Set scheduler
 -------------------------------
 
-# Go to 'Settings / Automation / Scheduler Actions'.
-# Find out 'Database Backup' and set ``Execute Every`` and ``Next Execution Date`` as per you.
+* Go to 'Settings / Automation / Scheduler Actions'.
+* Find out 'Database Backup' and set ``Execute Every`` and ``Next Execution Date`` as per you.
 Preference.
 
 Contributors
